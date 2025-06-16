@@ -43146,7 +43146,7 @@
   },
   {
     "macPrefix": "00:15:FF",
-    "vendorName": "Novatel Wireless Solutions, Inc.",
+    "vendorName": "Inseego Wireless, Inc",
     "blockType": "MA-L"
   },
   {
@@ -157611,7 +157611,7 @@
   },
   {
     "macPrefix": "28:80:A2",
-    "vendorName": "Novatel Wireless Solutions, Inc.",
+    "vendorName": "Inseego Wireless, Inc",
     "blockType": "MA-L"
   },
   {
@@ -202581,7 +202581,7 @@
   },
   {
     "macPrefix": "18:EE:86",
-    "vendorName": "Novatel Wireless Solutions, Inc.",
+    "vendorName": "Inseego Wireless, Inc",
     "blockType": "MA-L"
   },
   {
@@ -228191,7 +228191,7 @@
   },
   {
     "macPrefix": "E0:86:14",
-    "vendorName": "Novatel Wireless Solutions, Inc.",
+    "vendorName": "Inseego Wireless, Inc",
     "blockType": "MA-L"
   },
   {
@@ -271505,21 +271505,6 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "00:AE:F7",
-    "vendorName": "Dreame Technology (Suzhou) Limited",
-    "blockType": "MA-L"
-  },
-  {
-    "macPrefix": "B0:D7:7E",
-    "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
-    "blockType": "MA-L"
-  },
-  {
-    "macPrefix": "74:00:E8",
-    "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
-    "blockType": "MA-L"
-  },
-  {
     "macPrefix": "48:45:E6",
     "vendorName": "CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.",
     "blockType": "MA-L"
@@ -271532,6 +271517,21 @@
   {
     "macPrefix": "60:32:3B",
     "vendorName": "Quectel Wireless Solutions Co.,Ltd.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "00:AE:F7",
+    "vendorName": "Dreame Technology (Suzhou) Limited",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "B0:D7:7E",
+    "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "74:00:E8",
+    "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
     "blockType": "MA-L"
   },
   {
@@ -271585,13 +271585,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "94:A4:CE",
-    "vendorName": "Sensear Pty Ltd",
+    "macPrefix": "78:20:51",
+    "vendorName": "TP-Link Systems Inc.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "78:20:51",
-    "vendorName": "TP-Link Systems Inc.",
+    "macPrefix": "94:A4:CE",
+    "vendorName": "Sensear Pty Ltd",
     "blockType": "MA-L"
   },
   {
@@ -271600,22 +271600,22 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "8C:8A:CD",
-    "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
-    "blockType": "MA-L"
-  },
-  {
     "macPrefix": "1C:FC:2A",
     "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "5C:DC:49",
+    "macPrefix": "8C:8A:CD",
+    "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "80:54:2D",
     "vendorName": "Samsung Electronics Co.,Ltd",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "24:A4:52",
+    "macPrefix": "5C:DC:49",
     "vendorName": "Samsung Electronics Co.,Ltd",
     "blockType": "MA-L"
   },
@@ -271630,7 +271630,7 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "80:54:2D",
+    "macPrefix": "24:A4:52",
     "vendorName": "Samsung Electronics Co.,Ltd",
     "blockType": "MA-L"
   },
@@ -271750,13 +271750,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "A8:9C:6C",
-    "vendorName": "Ubiquiti Inc",
+    "macPrefix": "74:E9:87",
+    "vendorName": "Apple, Inc.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "74:E9:87",
-    "vendorName": "Apple, Inc.",
+    "macPrefix": "A8:9C:6C",
+    "vendorName": "Ubiquiti Inc",
     "blockType": "MA-L"
   },
   {
@@ -271775,12 +271775,12 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "B8:4F:A7",
+    "macPrefix": "00:97:F1",
     "vendorName": "Apple, Inc.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "00:97:F1",
+    "macPrefix": "B8:4F:A7",
     "vendorName": "Apple, Inc.",
     "blockType": "MA-L"
   },
@@ -271835,13 +271835,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "A4:D5:01",
-    "vendorName": "Yucca Technology Company Limited.",
+    "macPrefix": "D4:0A:9E",
+    "vendorName": "GO development GmbH",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "D4:0A:9E",
-    "vendorName": "GO development GmbH",
+    "macPrefix": "A4:D5:01",
+    "vendorName": "Yucca Technology Company Limited.",
     "blockType": "MA-L"
   },
   {
@@ -271935,13 +271935,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "40:7A:A4",
-    "vendorName": "ZHEJIANG DAHUA TECHNOLOGYCO.,LTD",
+    "macPrefix": "9C:C7:B1",
+    "vendorName": "ELITEGROUP COMPUTER SYSTEMS CO.,LTD.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "9C:C7:B1",
-    "vendorName": "ELITEGROUP COMPUTER SYSTEMS CO.,LTD.",
+    "macPrefix": "40:7A:A4",
+    "vendorName": "ZHEJIANG DAHUA TECHNOLOGYCO.,LTD",
     "blockType": "MA-L"
   },
   {
@@ -271986,17 +271986,17 @@
   },
   {
     "macPrefix": "C8:90:09",
-    "vendorName": "Budderfly Inc",
-    "blockType": "MA-L"
-  },
-  {
-    "macPrefix": "0C:27:56",
-    "vendorName": "RONGCHEENG GOER TECHNOLOGY CO.,LTD.",
+    "vendorName": "Budderfly Inc.",
     "blockType": "MA-L"
   },
   {
     "macPrefix": "8C:01:9D",
     "vendorName": "Arista Networks",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "0C:27:56",
+    "vendorName": "RONGCHEENG GOER TECHNOLOGY CO.,LTD.",
     "blockType": "MA-L"
   },
   {
@@ -272030,13 +272030,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "B4:D3:1A",
-    "vendorName": "LYSORA TECHNOLOGY INC.",
+    "macPrefix": "D8:45:67",
+    "vendorName": "TECNO MOBILE LIMITED",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "D8:45:67",
-    "vendorName": "TECNO MOBILE LIMITED",
+    "macPrefix": "B4:D3:1A",
+    "vendorName": "LYSORA TECHNOLOGY INC.",
     "blockType": "MA-L"
   },
   {
@@ -272155,13 +272155,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "2C:7A:F4:0",
-    "vendorName": "Annapurna labs",
+    "macPrefix": "F0:12:04:E",
+    "vendorName": "Tianjin Tianchuan Electric Drive Co.,Ltd.",
     "blockType": "MA-M"
   },
   {
-    "macPrefix": "F0:12:04:E",
-    "vendorName": "Tianjin Tianchuan Electric Drive Co.,Ltd.",
+    "macPrefix": "2C:7A:F4:0",
+    "vendorName": "Annapurna labs",
     "blockType": "MA-M"
   },
   {
@@ -272210,18 +272210,23 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "B4:5B:D1",
+    "macPrefix": "80:3C:04",
     "vendorName": "TP-Link Systems Inc.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "80:3C:04",
+    "macPrefix": "B4:5B:D1",
     "vendorName": "TP-Link Systems Inc.",
     "blockType": "MA-L"
   },
   {
     "macPrefix": "94:FF:34",
     "vendorName": "HANSHOW TECHNOLOGY CO.,LTD.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "50:2F:54",
+    "vendorName": "CIG SHANGHAI CO LTD",
     "blockType": "MA-L"
   },
   {
@@ -272232,11 +272237,6 @@
   {
     "macPrefix": "9C:C7:D3",
     "vendorName": "AzureWave Technology Inc.",
-    "blockType": "MA-L"
-  },
-  {
-    "macPrefix": "50:2F:54",
-    "vendorName": "CIG SHANGHAI CO LTD",
     "blockType": "MA-L"
   },
   {
@@ -272295,13 +272295,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "34:58:8A",
-    "vendorName": "Cisco Systems, Inc",
+    "macPrefix": "74:D5:B8",
+    "vendorName": "Infraeo Inc",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "74:D5:B8",
-    "vendorName": "Infraeo Inc",
+    "macPrefix": "34:58:8A",
+    "vendorName": "Cisco Systems, Inc",
     "blockType": "MA-L"
   },
   {
@@ -272385,6 +272385,11 @@
     "blockType": "MA-L"
   },
   {
+    "macPrefix": "10:D6:57",
+    "vendorName": "Siemens Industrial Automation Products Ltd., Chengdu",
+    "blockType": "MA-L"
+  },
+  {
     "macPrefix": "48:C3:81",
     "vendorName": "TP-Link Systems Inc.",
     "blockType": "MA-L"
@@ -272392,11 +272397,6 @@
   {
     "macPrefix": "88:C7:8F",
     "vendorName": "zte corporation",
-    "blockType": "MA-L"
-  },
-  {
-    "macPrefix": "10:D6:57",
-    "vendorName": "Siemens Industrial Automation Products Ltd., Chengdu",
     "blockType": "MA-L"
   },
   {
@@ -272425,13 +272425,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "94:C2:EF",
-    "vendorName": "ASKEY COMPUTER CORP",
+    "macPrefix": "40:C0:2F",
+    "vendorName": "Actiontec Electronics Inc.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "40:C0:2F",
-    "vendorName": "Actiontec Electronics Inc.",
+    "macPrefix": "94:C2:EF",
+    "vendorName": "ASKEY COMPUTER CORP",
     "blockType": "MA-L"
   },
   {
@@ -272550,13 +272550,13 @@
     "blockType": "MA-S"
   },
   {
-    "macPrefix": "C8:77:F3",
-    "vendorName": "VusionGroup",
+    "macPrefix": "F0:40:EC",
+    "vendorName": "RainX PTE. LTD.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "F0:40:EC",
-    "vendorName": "RainX PTE. LTD.",
+    "macPrefix": "C8:77:F3",
+    "vendorName": "VusionGroup",
     "blockType": "MA-L"
   },
   {
@@ -272615,13 +272615,13 @@
     "blockType": "MA-M"
   },
   {
-    "macPrefix": "8C:1F:64:29:5",
-    "vendorName": "Ophir Manufacturing Solutions Pte Ltd",
+    "macPrefix": "8C:1F:64:ED:D",
+    "vendorName": "OnDis Solutions Ltd",
     "blockType": "MA-S"
   },
   {
-    "macPrefix": "8C:1F:64:ED:D",
-    "vendorName": "OnDis Solutions Ltd",
+    "macPrefix": "8C:1F:64:29:5",
+    "vendorName": "Ophir Manufacturing Solutions Pte Ltd",
     "blockType": "MA-S"
   },
   {
@@ -272750,12 +272750,12 @@
     "blockType": "MA-M"
   },
   {
-    "macPrefix": "40:24:D2",
+    "macPrefix": "1C:0E:AF",
     "vendorName": "Huawei Device Co., Ltd.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "1C:0E:AF",
+    "macPrefix": "40:24:D2",
     "vendorName": "Huawei Device Co., Ltd.",
     "blockType": "MA-L"
   },
@@ -272795,6 +272795,11 @@
     "blockType": "MA-L"
   },
   {
+    "macPrefix": "F4:14:BF",
+    "vendorName": "LG Innotek",
+    "blockType": "MA-L"
+  },
+  {
     "macPrefix": "FC:79:DD",
     "vendorName": "Huawei Device Co., Ltd.",
     "blockType": "MA-L"
@@ -272807,11 +272812,6 @@
   {
     "macPrefix": "58:79:61",
     "vendorName": "Microsoft Corporation",
-    "blockType": "MA-L"
-  },
-  {
-    "macPrefix": "F4:14:BF",
-    "vendorName": "LG Innotek",
     "blockType": "MA-L"
   },
   {
@@ -272915,13 +272915,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "BC:2E:C3",
-    "vendorName": "Shenzhen Tianruixiang Communication Equipment Co.,Ltd",
+    "macPrefix": "24:60:78",
+    "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "24:60:78",
-    "vendorName": "HUAWEI TECHNOLOGIES CO.,LTD",
+    "macPrefix": "BC:2E:C3",
+    "vendorName": "Shenzhen Tianruixiang Communication Equipment Co.,Ltd",
     "blockType": "MA-L"
   },
   {
@@ -273050,13 +273050,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "D0:78:9A",
-    "vendorName": "Vantiva - Connected Home",
+    "macPrefix": "54:92:6A",
+    "vendorName": "GD Midea Air-Conditioning Equipment Co.,Ltd.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "54:92:6A",
-    "vendorName": "GD Midea Air-Conditioning Equipment Co.,Ltd.",
+    "macPrefix": "D0:78:9A",
+    "vendorName": "Vantiva - Connected Home",
     "blockType": "MA-L"
   },
   {
@@ -273105,13 +273105,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "04:58:5D:1",
-    "vendorName": "Research Laboratory of Design Automation, Ltd.",
+    "macPrefix": "04:58:5D:6",
+    "vendorName": "VERTE Elektronik San. Ve Tic. A.\u015e.",
     "blockType": "MA-M"
   },
   {
-    "macPrefix": "04:58:5D:6",
-    "vendorName": "VERTE Elektronik San. Ve Tic. A.\u015e.",
+    "macPrefix": "04:58:5D:1",
+    "vendorName": "Research Laboratory of Design Automation, Ltd.",
     "blockType": "MA-M"
   },
   {
@@ -273405,13 +273405,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "04:B5:C1",
-    "vendorName": "ITEL MOBILE LIMITED",
+    "macPrefix": "0C:FE:7B",
+    "vendorName": "Vantiva USA LLC",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "0C:FE:7B",
-    "vendorName": "Vantiva USA LLC",
+    "macPrefix": "04:B5:C1",
+    "vendorName": "ITEL MOBILE LIMITED",
     "blockType": "MA-L"
   },
   {
@@ -273425,12 +273425,12 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "A4:FF:9F",
+    "macPrefix": "20:25:CC",
     "vendorName": "Xiaomi Communications Co Ltd",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "20:25:CC",
+    "macPrefix": "A4:FF:9F",
     "vendorName": "Xiaomi Communications Co Ltd",
     "blockType": "MA-L"
   },
@@ -273475,13 +273475,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "9C:13:9E",
-    "vendorName": "Espressif Inc.",
+    "macPrefix": "00:C8:4E",
+    "vendorName": "Hewlett Packard Enterprise",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "00:C8:4E",
-    "vendorName": "Hewlett Packard Enterprise",
+    "macPrefix": "9C:13:9E",
+    "vendorName": "Espressif Inc.",
     "blockType": "MA-L"
   },
   {
@@ -273505,6 +273505,11 @@
     "blockType": "MA-S"
   },
   {
+    "macPrefix": "E0:49:34",
+    "vendorName": "Calix Inc.",
+    "blockType": "MA-L"
+  },
+  {
     "macPrefix": "84:94:59",
     "vendorName": "Hangzhou Hikvision Digital Technology Co.,Ltd.",
     "blockType": "MA-L"
@@ -273512,11 +273517,6 @@
   {
     "macPrefix": "10:D9:A2",
     "vendorName": "Google, Inc.",
-    "blockType": "MA-L"
-  },
-  {
-    "macPrefix": "E0:49:34",
-    "vendorName": "Calix Inc.",
     "blockType": "MA-L"
   },
   {
@@ -273580,13 +273580,13 @@
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "B4:5B:86",
-    "vendorName": "Funshion Online Technologies Co.,Ltd",
+    "macPrefix": "80:E7:69",
+    "vendorName": "Realme Chongqing Mobile Telecommunications Corp.,Ltd.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "80:E7:69",
-    "vendorName": "Realme Chongqing Mobile Telecommunications Corp.,Ltd.",
+    "macPrefix": "B4:5B:86",
+    "vendorName": "Funshion Online Technologies Co.,Ltd",
     "blockType": "MA-L"
   },
   {
@@ -273710,13 +273710,13 @@
     "blockType": "MA-S"
   },
   {
-    "macPrefix": "5C:E7:53",
-    "vendorName": "Private",
+    "macPrefix": "CC:BA:BD",
+    "vendorName": "TP-Link Systems Inc.",
     "blockType": "MA-L"
   },
   {
-    "macPrefix": "CC:BA:BD",
-    "vendorName": "TP-Link Systems Inc.",
+    "macPrefix": "5C:E7:53",
+    "vendorName": "Private",
     "blockType": "MA-L"
   },
   {
@@ -273758,5 +273758,370 @@
     "macPrefix": "D4:A0:FB:C",
     "vendorName": "Snap-on Tools",
     "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "08:73:6F",
+    "vendorName": "EM Microelectronic",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "64:75:DA",
+    "vendorName": "Arcadyan Corporation",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "44:35:B9",
+    "vendorName": "NetComm Wireless Pty Ltd",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "2C:F8:14",
+    "vendorName": "Cisco Systems, Inc",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "6C:4F:A1",
+    "vendorName": "Cisco Systems, Inc",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "30:FE:FA",
+    "vendorName": "Cisco Systems, Inc",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "2C:DC:C1",
+    "vendorName": "EM Microelectronic",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "A4:97:00",
+    "vendorName": "Cisco Systems, Inc",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "6A:B8:7A",
+    "vendorName": "Acrosswaves",
+    "blockType": "CID"
+  },
+  {
+    "macPrefix": "8C:1F:64:60:7",
+    "vendorName": "Nanjing Aotong Intelligent Technology Co.,Ltd",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:B4:1",
+    "vendorName": "STATE GRID INTELLIGENCE TECHNOLOGY CO.,LTD.",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "78:A1:D8",
+    "vendorName": "ShenzhenEnjoyTechnologyCo.,Ltd",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "18:86:C3",
+    "vendorName": "Nokia",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "94:4F:DB",
+    "vendorName": "Nokia",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "40:10:ED",
+    "vendorName": "G.Tech Technology Ltd.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "D4:A0:FB:6",
+    "vendorName": "Huizhou Jiemeisi Technology Co.,Ltd.",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "D4:A0:FB:2",
+    "vendorName": "Beijing Lingji Innovations technology Co,LTD.",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "8C:1F:64:37:D",
+    "vendorName": "Season Electronics Ltd",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:7D:0",
+    "vendorName": "Tecsys do Brasil Industrial Ltda",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "00:D6:26",
+    "vendorName": "Mist Systems, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "B4:1F:4D",
+    "vendorName": "Sony Interactive Entertainment Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "E8:9E:49",
+    "vendorName": "Mellanox Technologies, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "DC:BB:3D",
+    "vendorName": "Extreme Networks Headquarters",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "20:3A:0C",
+    "vendorName": "eero inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "28:01:CD",
+    "vendorName": "Mellanox Technologies, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "30:F8:56",
+    "vendorName": "Extreme Networks Headquarters",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "B0:CC:CE:0",
+    "vendorName": "Steelco SpA",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "B0:CC:CE:6",
+    "vendorName": "MULTI-FIELD LOW TEMPERATURE TECHNOLOGY(BEIJING) CO., LTD.",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "B0:CC:CE:B",
+    "vendorName": "Watermark Systems (India) Private Limited",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "D4:A0:FB:E",
+    "vendorName": "GTEK GLOBAL CO.,LTD",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "8C:1F:64:5A:1",
+    "vendorName": "Breas Medical AB",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:29:7",
+    "vendorName": "IGEMA GmbH",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:CB:1",
+    "vendorName": "Xi\u2019an Sunway Communication Co., Ltd.",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "B0:CC:CE",
+    "vendorName": "IEEE Registration Authority",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "E8:CA:50",
+    "vendorName": "Bouffalo Lab (Nanjing) Co., Ltd.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "14:14:16",
+    "vendorName": "Hui Zhou Gaoshengda Technology Co.,LTD",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "FC:9F:2A",
+    "vendorName": "Zyxel Communications Corporation",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "CC:67:D8",
+    "vendorName": "Telin Semiconductor (Wuhan) Co.,Ltd",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "CC:EA:27",
+    "vendorName": "GE Appliances",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "B0:CC:CE:2",
+    "vendorName": "4MOD Technology",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "B0:CC:CE:1",
+    "vendorName": "Agrisys A/S",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "8C:1F:64:20:A",
+    "vendorName": "Oriux",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:58:3",
+    "vendorName": "3Egreen tech. Co. Ltd.",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:D3:B",
+    "vendorName": "Gogo BA",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "14:8F:79",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "F8:D3:F0",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "B8:05:33",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "68:5E:DD",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "10:42:10",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "A0:2B:44",
+    "vendorName": "WaveGo Tech LLC",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "FC:B2:14",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "2C:95:20",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "F8:E2:52",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "20:F4:D4",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "30:C0:AE",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "CC:22:FE",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "34:DA:A1",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "74:77:86",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "D8:42:F7",
+    "vendorName": "Tozed Kangwei Tech Co.,Ltd",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "48:CA:68",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "18:E6:71",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "DC:93:96",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "A8:2C:89",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "68:A5:93",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "80:12:42",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "B8:01:1F",
+    "vendorName": "Apple, Inc.",
+    "blockType": "MA-L"
+  },
+  {
+    "macPrefix": "B0:CC:CE:C",
+    "vendorName": "Faaftech",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "B0:CC:CE:7",
+    "vendorName": "EBI Patient Care, Inc.",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "B0:CC:CE:3",
+    "vendorName": "Gateview Technologies",
+    "blockType": "MA-M"
+  },
+  {
+    "macPrefix": "8C:1F:64:9C:9",
+    "vendorName": "Matrix Electronic Technology Co., LTD",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:F8:C",
+    "vendorName": "BK LAB",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:5E:D",
+    "vendorName": "DEUTA Werke GmbH",
+    "blockType": "MA-S"
+  },
+  {
+    "macPrefix": "8C:1F:64:6C:A",
+    "vendorName": "Melissa Climate Jsc",
+    "blockType": "MA-S"
   }
 ]
